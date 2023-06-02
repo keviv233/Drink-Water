@@ -2,6 +2,8 @@
 
 **The Drink Water project is a web application that helps track the amount of water consumed throughout. It features a big glass representing the goal of 2 liters (2000 ml) of water, along with 8 small glasses (250 ml each). By clicking the small glasses, users can visualize their water intake progress.**
 
+> [Run The Project](https://vivek-chhabra.github.io/Drink-Water/)
+
 <br>
 
 ## Features
